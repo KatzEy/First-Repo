@@ -10,7 +10,7 @@ def search_attractors():
     found = False
     time_points = np.linspace(0,40,1001)
     while not found:
-
+        print("imma fuck boy")
         x = random.uniform(-0.5,0.5)
         y = random.uniform(-0.5,0.5)
         # random nearby point
